@@ -6,13 +6,7 @@
 <h4> Soy Ingeniera en Informática </h4>
 <p>Me encanta programar <img src="https://github.com/user-attachments/assets/a1e44d06-3fac-4c00-be79-ee9379b55d0c" height="26" /></p>
 
-
-
-
-
-
 <p align="right"><a href="https://thanzel.github.io/portafolio-yenny/">➡️ Mi Portafolio</a></p>
-
 
 -----
 <h6>Conocimientos:</h6>
