@@ -3,9 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=457&lines=Busco+nuevas+formas+de+hacer+las+cosas+)](https://git.io/typing-svg)
 
-<h4> Soy Ingeniera en Informática </h4>
-<p>Me encanta programar <img src="https://github.com/user-attachments/assets/a1e44d06-3fac-4c00-be79-ee9379b55d0c" height="26" /></p>
-
 <p align="right"><a href="https://thanzel.github.io/portafolio-yenny/">➡️ Mi Portafolio</a></p>
 
 -----
@@ -26,6 +23,8 @@
 ![Static Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
+
+<p>Me encanta programar <img src="https://github.com/user-attachments/assets/a1e44d06-3fac-4c00-be79-ee9379b55d0c" height="26" /></p>
 <a href="https://github.com/RaoHai/RaoHai/workflows">
 <img align="right" alt="Build README" src="https://github.com/RaoHai/RaoHai/workflows/yuque/badge.svg?branch=master" />
 </a>
