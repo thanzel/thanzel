@@ -1,13 +1,12 @@
-<p><img src="https://github.com/user-attachments/assets/f5acb781-2bbf-4400-80de-86a3be0d493f" height="24"/><img src="https://github.com/user-attachments/assets/438899d5-806c-46f9-be09-9230245a659f" height="24"/> Hola! Soy Ingeniera en Informática, te invito a ver mis repos</p>
 <img align='right' src="https://github.com/user-attachments/assets/1472155b-a6a7-4119-a328-ea2613a84db2" width="240" /> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=457&lines=Busco+nuevas+formas+de+hacer+las+cosas+)](https://git.io/typing-svg)
 
+<p><img src="https://github.com/user-attachments/assets/f5acb781-2bbf-4400-80de-86a3be0d493f" height="24"/><img src="https://github.com/user-attachments/assets/438899d5-806c-46f9-be09-9230245a659f" height="24"/> Hola! Soy Ingeniera en Informática, te invito a ver mis repos</p>
+
 <p align="right"><a href="https://thanzel.github.io/portafolio-yenny/">➡️ Mi Portafolio</a></p>
 
 -----
-<h6>Conocimientos:</h6>
-
 ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
