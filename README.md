@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/user-attachments/assets/1472155b-a6a7-4119-a328-ea2613a84db2" width="240" /> 
+<img align='right' src="https://github.com/user-attachments/assets/e2042a25-69f9-4354-9428-52fa787bc4cc" width="240" /> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=457&lines=Busco+nuevas+formas+de+hacer+las+cosas+)](https://git.io/typing-svg)
 
