@@ -17,7 +17,7 @@ Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <
 -----
 # 🔭 Tecnologías y Herramientas 
 
-<img align='left' src="https://github.com/user-attachments/assets/89feb04f-9a3f-4e0a-b686-649af5ccdf8d" width="180" /> 
+<img align='left' src="https://github.com/user-attachments/assets/89feb04f-9a3f-4e0a-b686-649af5ccdf8d" width="150" /> 
 
 ![Static Badge](https://img.shields.io/badge/Java-FEFAE0?style=for-the-badge&logo=coffeescript&logoColor=black&labelColor=B99470)
 ![Static Badge](https://img.shields.io/badge/Spring%20Framework-efebe9?style=for-the-badge&logo=spring&logoColor=black&labelColor=A4ac86)
