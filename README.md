@@ -15,6 +15,14 @@ Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=457&lines=Busco+nuevas+formas+de+hacer+las+cosas+)](https://git.io/typing-svg)
 
 -----
+
+<div align="center">
+ 
+<img src="https://myreadme.vercel.app/api/embed/thanzel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+</div>
+
+
 # 🔭 Tecnologías y Herramientas 
 
 <img align='left' src="https://github.com/user-attachments/assets/89feb04f-9a3f-4e0a-b686-649af5ccdf8d" width="150" /> 
@@ -38,7 +46,17 @@ Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <
 [![Static Badge](https://img.shields.io/badge/Portafolio-2d4874?style=for-the-badge&logo=esbuild&logoColor=black&labelColor=d7dbdd)](https://thanzel.github.io/portafolio-yenny/index.html)
 
 
+
 <!--
+
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dthanzel&longCache=true"/>
+<img alt="followers" src="https://img.shields.io/github/followers/thanzel?label=Followers&style=social">
+<img src="https://img.shields.io/github/stars/thanzel?label=Stars" alt="stars">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanzel&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thanzel&repo=thanzel&countColorcountColor&countColor=%237B1E7B"/>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
