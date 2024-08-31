@@ -18,23 +18,23 @@ Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <
 
 <img align='left' src="https://github.com/user-attachments/assets/89feb04f-9a3f-4e0a-b686-649af5ccdf8d" width="180" /> 
 
-![Static Badge](https://img.shields.io/badge/Java-F0E6A1?style=for-the-badge&logo=coffeescript&logoColor=black&labelColor=EDA768)
-![Static Badge](https://img.shields.io/badge/Spring%20Framework-D4F0A1?style=for-the-badge&logo=spring&logoColor=black&labelColor=EDEA68)
-![Static Badge](https://img.shields.io/badge/Spring%20Boot-9fa8da?style=for-the-badge&logo=springboot&logoColor=9fa8da&labelColor=fff59d)
-![Static Badge](https://img.shields.io/badge/MySql-fff59d?style=for-the-badge&logo=mysql&logoColor=black&labelColor=d1c4e9)
-![Static Badge](https://img.shields.io/badge/Teradata-e3f2fd?style=for-the-badge&logo=teradata&logoColor=black&labelColor=9fa8da)
-![Static Badge](https://img.shields.io/badge/Oracle-B9ED68?style=for-the-badge&logo=oracle&logoColor=black&labelColor=EDEDB7)
-![Static Badge](https://img.shields.io/badge/JavaScript-F0B5D9?style=for-the-badge&logo=javascript&logoColor=black&labelColor=EDDD68)
-![Static Badge](https://img.shields.io/badge/JQuery-DBB5F0?style=for-the-badge&logo=jquery&logoColor=black&labelColor=EC65F0)
-![Static Badge](https://img.shields.io/badge/HTML5-e0f2f1?style=for-the-badge&logo=html5&logoColor=black&labelColor=009688)
+![Static Badge](https://img.shields.io/badge/Java-E6e0d2?style=for-the-badge&logo=coffeescript&logoColor=black&labelColor=d6c79c)
+![Static Badge](https://img.shields.io/badge/Spring%20Framework-D7C3A0?style=for-the-badge&logo=spring&logoColor=black&labelColor=fde3c2)
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-e3e1e6?style=for-the-badge&logo=springboot&logoColor=9fa8da&labelColor=d9bf9e)
+![Static Badge](https://img.shields.io/badge/MySql-EFE7DA?style=for-the-badge&logo=mysql&logoColor=black&labelColor=C1B6A3)
+![Static Badge](https://img.shields.io/badge/Teradata-E1DACA?style=for-the-badge&logo=teradata&logoColor=black&labelColor=B3907A)
+![Static Badge](https://img.shields.io/badge/Oracle-ccd7cf?style=for-the-badge&logo=oracle&logoColor=black&labelColor=c6d1b3)
+![Static Badge](https://img.shields.io/badge/JavaScript-E4c9B6?style=for-the-badge&logo=javascript&logoColor=black&labelColor=D7A49A)
+![Static Badge](https://img.shields.io/badge/JQuery-C9C2B2?style=for-the-badge&logo=jquery&logoColor=black&labelColor=C9C282)
+![Static Badge](https://img.shields.io/badge/HTML5-DBD5D2?style=for-the-badge&logo=html5&logoColor=black&labelColor=AcB6B3)
 ![Static Badge](https://img.shields.io/badge/CSS3-efebe9?style=for-the-badge&logo=css3&logoColor=black&labelColor=cfd8dc)
-![Static Badge](https://img.shields.io/badge/BootStrap-f9fbe7?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=f2d7d5)
-![Static Badge](https://img.shields.io/badge/Python-d0ece7?style=for-the-badge&logo=python&logoColor=black&labelColor=f2d7d5)
-![Static Badge](https://img.shields.io/badge/Kibana-fad7a0?style=for-the-badge&logo=kibana&logoColor=black&labelColor=d4ac0d)
-![Static Badge](https://img.shields.io/badge/IBM%20DataStage-ede7f6?style=for-the-badge&logo=ibm&logoColor=black&labelColor=d7ccc8)
-![Static Badge](https://img.shields.io/badge/Datadog-f2d7d5?style=for-the-badge&logo=datadog&logoColor=black&labelColor=d7dbdd)
+![Static Badge](https://img.shields.io/badge/BootStrap-E3E5E8?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=D6C7BD)
+![Static Badge](https://img.shields.io/badge/Python-B8c5b9?style=for-the-badge&logo=python&logoColor=black&labelColor=Cdb499)
+![Static Badge](https://img.shields.io/badge/Kibana-E9D7C0?style=for-the-badge&logo=kibana&logoColor=black&labelColor=92AdA4)
+![Static Badge](https://img.shields.io/badge/IBM%20DataStage-Daa38F?style=for-the-badge&logo=ibm&logoColor=black&labelColor=d7ccc8)
+![Static Badge](https://img.shields.io/badge/Datadog-f2d7d5?style=for-the-badge&logo=datadog&logoColor=black&labelColor=E1DbDc)
 
-[![Static Badge](https://img.shields.io/badge/Portafolio-C1619D?style=for-the-badge&logo=esbuild&logoColor=black&labelColor=d7dbdd)](https://thanzel.github.io/portafolio-yenny/index.html)
+[![Static Badge](https://img.shields.io/badge/Portafolio-2d4874?style=for-the-badge&logo=esbuild&logoColor=black&labelColor=d7dbdd)](https://thanzel.github.io/portafolio-yenny/index.html)
 
 
 <!--
