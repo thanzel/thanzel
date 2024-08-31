@@ -19,9 +19,9 @@ Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <
 
 <img align='left' src="https://github.com/user-attachments/assets/89feb04f-9a3f-4e0a-b686-649af5ccdf8d" width="180" /> 
 
-![Static Badge](https://img.shields.io/badge/Java-E6e0d2?style=for-the-badge&logo=coffeescript&logoColor=black&labelColor=d6c79c)
-![Static Badge](https://img.shields.io/badge/Spring%20Framework-efebe9?style=for-the-badge&logo=spring&logoColor=black&labelColor=Cdb499)
-![Static Badge](https://img.shields.io/badge/Spring%20Boot-e3e1e6?style=for-the-badge&logo=springboot&logoColor=9fa8da&labelColor=d9bf9e)
+![Static Badge](https://img.shields.io/badge/Java-FEFAE0?style=for-the-badge&logo=coffeescript&logoColor=black&labelColor=B99470)
+![Static Badge](https://img.shields.io/badge/Spring%20Framework-efebe9?style=for-the-badge&logo=spring&logoColor=black&labelColor=A4ac86)
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-e3e1e6?style=for-the-badge&logo=springboot&logoColor=black&labelColor=936639)
 ![Static Badge](https://img.shields.io/badge/MySql-EFE7DA?style=for-the-badge&logo=mysql&logoColor=black&labelColor=C1B6A3)
 ![Static Badge](https://img.shields.io/badge/Teradata-E1DACA?style=for-the-badge&logo=teradata&logoColor=black&labelColor=B3907A)
 ![Static Badge](https://img.shields.io/badge/Oracle-ccd7cf?style=for-the-badge&logo=oracle&logoColor=black&labelColor=c6d1b3)
