@@ -1,6 +1,6 @@
 # ¡Hola, soy Yenny!  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<img align='right' src="https://github.com/user-attachments/assets/6a6c66f8-406a-4896-9ef2-32994a99f3aa" width="310" /> 
+<img align='right' src="https://github.com/user-attachments/assets/6a6c66f8-406a-4896-9ef2-32994a99f3aa" width="300" /> 
 
 <p><img src="https://github.com/user-attachments/assets/f5acb781-2bbf-4400-80de-86a3be0d493f" height="24"/><img src="https://github.com/user-attachments/assets/438899d5-806c-46f9-be09-9230245a659f" height="24"/> 
 Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <i><b> Java y Spring Boot </b></i> ✨, disfruto trabajando en proyectos que presentan oportunidades para aprender y crecer.
