@@ -1,10 +1,10 @@
 # ¡Hola, soy Yenny!  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<img align='right' src="https://github.com/user-attachments/assets/d598f95e-8abc-4bc3-b180-1e679ad5d1ab" width="280" /> 
+<img align='right' src="https://github.com/user-attachments/assets/6a6c66f8-406a-4896-9ef2-32994a99f3aa" width="310" /> 
 
 <p><img src="https://github.com/user-attachments/assets/f5acb781-2bbf-4400-80de-86a3be0d493f" height="24"/><img src="https://github.com/user-attachments/assets/438899d5-806c-46f9-be09-9230245a659f" height="24"/> 
-Soy una desarrolladora de software con mayor enfoque en el backend, especialmente en ✨ _Java y Spring Boot_ ✨, disfruto trabajando en proyectos que presentan oportunidades para aprender y crecer.
-</p>
+Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <i><b> Java y Spring Boot </b></i> ✨, disfruto trabajando en proyectos que presentan oportunidades para aprender y crecer.
+</p> 
  
 
 ### 🌱 Actualmente Estoy Aprendiendo  
@@ -15,6 +15,8 @@ Soy una desarrolladora de software con mayor enfoque en el backend, especialment
 
 -----
 # 🔭 Tecnologías y Herramientas
+
+<img align='left' src="https://github.com/user-attachments/assets/89feb04f-9a3f-4e0a-b686-649af5ccdf8d" width="180" /> 
 
 ![Static Badge](https://img.shields.io/badge/Java-F0E6A1?style=for-the-badge&logo=coffeescript&logoColor=black&labelColor=EDA768)
 ![Static Badge](https://img.shields.io/badge/Spring%20Framework-D4F0A1?style=for-the-badge&logo=spring&logoColor=black&labelColor=EDEA68)
