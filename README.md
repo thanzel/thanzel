@@ -39,8 +39,8 @@ Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <
 ![Static Badge](https://img.shields.io/badge/CSS3-efebe9?style=for-the-badge&logo=css3&logoColor=black&labelColor=cfd8dc)
 ![Static Badge](https://img.shields.io/badge/BootStrap-E3E5E8?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=D6C7BD)
 ![Static Badge](https://img.shields.io/badge/Python-B8c5b9?style=for-the-badge&logo=python&logoColor=black&labelColor=Cdb499)
-![Static Badge](https://img.shields.io/badge/Kibana-E9D7C0?style=for-the-badge&logo=kibana&logoColor=black&labelColor=92AdA4)
 ![Static Badge](https://img.shields.io/badge/IBM%20DataStage-e3e1e6?style=for-the-badge&logo=ibm&logoColor=black&labelColor=d7ccc8)
+![Static Badge](https://img.shields.io/badge/Kibana-E9D7C0?style=for-the-badge&logo=kibana&logoColor=black&labelColor=92AdA4)
 ![Static Badge](https://img.shields.io/badge/Datadog-f2d7d5?style=for-the-badge&logo=datadog&logoColor=black&labelColor=E1DbDc)
 
 [![Static Badge](https://img.shields.io/badge/Portafolio-2d4874?style=for-the-badge&logo=esbuild&logoColor=black&labelColor=d7dbdd)](https://thanzel.github.io/portafolio-yenny/index.html)
