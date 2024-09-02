@@ -43,11 +43,8 @@ Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <
 ![Static Badge](https://img.shields.io/badge/Kibana-E9D7C0?style=for-the-badge&logo=kibana&logoColor=black&labelColor=92AdA4)
 ![Static Badge](https://img.shields.io/badge/Datadog-f2d7d5?style=for-the-badge&logo=datadog&logoColor=black&labelColor=E1DbDc)
 
-[![Static Badge](https://img.shields.io/badge/Portafolio-2d4874?style=for-the-badge&logo=esbuild&logoColor=black&labelColor=d7dbdd)](https://thanzel.github.io/portafolio-yenny/index.html)
-
-
-
 <!--
+[![Static Badge](https://img.shields.io/badge/Portafolio-2d4874?style=for-the-badge&logo=esbuild&logoColor=black&labelColor=d7dbdd)](https://thanzel.github.io/portafolio-yenny/index.html)
 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dthanzel&longCache=true"/>
 <img alt="followers" src="https://img.shields.io/github/followers/thanzel?label=Followers&style=social">
