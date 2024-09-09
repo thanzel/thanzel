@@ -16,16 +16,9 @@ Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <
 
 -----
 
-<div align="center">
- 
-<img src="https://myreadme.vercel.app/api/embed/thanzel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-</div>
-
-
 # 🔭 Tecnologías y Herramientas 
 
-<img align='left' src="https://github.com/user-attachments/assets/89feb04f-9a3f-4e0a-b686-649af5ccdf8d" width="150" /> 
+<img align='left' src="https://github.com/user-attachments/assets/89feb04f-9a3f-4e0a-b686-649af5ccdf8d" width="100" /> 
 
 ![Static Badge](https://img.shields.io/badge/Java-FEFAE0?style=for-the-badge&logo=coffeescript&logoColor=black&labelColor=B99470)
 ![Static Badge](https://img.shields.io/badge/Spring%20Framework-efebe9?style=for-the-badge&logo=spring&logoColor=black&labelColor=A4ac86)
@@ -43,7 +36,22 @@ Soy desarrolladora de software con enfoque en el backend, especialmente en ✨ <
 ![Static Badge](https://img.shields.io/badge/Kibana-E9D7C0?style=for-the-badge&logo=kibana&logoColor=black&labelColor=92AdA4)
 ![Static Badge](https://img.shields.io/badge/Datadog-f2d7d5?style=for-the-badge&logo=datadog&logoColor=black&labelColor=E1DbDc)
 
+
+
+-----
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanzel&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanzel&show_icons=true&theme=radical)
+
+</div>
+
 <!--
+ 
+<img src="https://myreadme.vercel.app/api/embed/thanzel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 [![Static Badge](https://img.shields.io/badge/Portafolio-2d4874?style=for-the-badge&logo=esbuild&logoColor=black&labelColor=d7dbdd)](https://thanzel.github.io/portafolio-yenny/index.html)
 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dthanzel&longCache=true"/>
