@@ -38,7 +38,7 @@
 ![Static Badge](https://img.shields.io/badge/Datadog-f2d7d5?style=for-the-badge&logo=datadog&logoColor=black&labelColor=E1DbDc)
 
 
-
+<!--
 -----
 
 <div align="center">
@@ -49,7 +49,7 @@
 
 </div>
 
-<!--
+
  
 <img src="https://myreadme.vercel.app/api/embed/thanzel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
