@@ -31,13 +31,16 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-efebe9?style=for-the-badge&logo=css3&logoColor=black&labelColor=cfd8dc)
 ![Static Badge](https://img.shields.io/badge/JavaScript-E4c9B6?style=for-the-badge&logo=javascript&logoColor=black&labelColor=D7A49A)
 ![Static Badge](https://img.shields.io/badge/JQuery-C9C2B2?style=for-the-badge&logo=jquery&logoColor=black&labelColor=C9C282)
+![Static Badge](https://img.shields.io/badge/React-e3e1e6?style=for-the-badge&logo=react&logoColor=black&labelColor=c6d1b3)
 ![Static Badge](https://img.shields.io/badge/BootStrap-E3E5E8?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=D6C7BD)
 ![Static Badge](https://img.shields.io/badge/Python-B8c5b9?style=for-the-badge&logo=python&logoColor=black&labelColor=Cdb499)
 ![Static Badge](https://img.shields.io/badge/IBM%20DataStage-e3e1e6?style=for-the-badge&logo=ibm&logoColor=black&labelColor=d7ccc8)
 ![Static Badge](https://img.shields.io/badge/Kibana-E9D7C0?style=for-the-badge&logo=kibana&logoColor=black&labelColor=92AdA4)
 ![Static Badge](https://img.shields.io/badge/Datadog-f2d7d5?style=for-the-badge&logo=datadog&logoColor=black&labelColor=E1DbDc)
-
-
+![Static Badge](https://img.shields.io/badge/Redis-FEFAE0?style=for-the-badge&logo=redis&logoColor=black&labelColor=Cdb499)
+![Static Badge](https://img.shields.io/badge/Bitbucket-e3e1e6?style=for-the-badge&logo=bitbucket&logoColor=black&labelColor=92AdA4)
+![Static Badge](https://img.shields.io/badge/Jenkins-DBD5D2?style=for-the-badge&logo=jenkins&logoColor=black&labelColor=936639)
+![Static Badge](https://img.shields.io/badge/AWS-f2d7d5?style=for-the-badge&logo=amazon&logoColor=black&labelColor=D7A49A)
 <!--
 -----
 
